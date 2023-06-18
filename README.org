@@ -1,0 +1,2 @@
+** Code As Data
+In languages that support code-as-data, such as Lisp, code is represented using a structured format that the language itself can understand and manipulate. This representation allows the code to be treated as data, meaning it can be stored in variables, passed as arguments to functions, modified, and evaluated dynamically at runtime.
